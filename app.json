@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "todoapp",
+    "slug": "todoapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "todo.app.list"
+    }
+  },
+  "name": "todoapp"
+}
